@@ -121,6 +121,12 @@ class Serverslist
         }
     }
 
+    /**
+     * @param $request
+     * @param $ip
+     * @param $port
+     * @return mixed
+     */
     private static function FilterServer($request, $ip, $port)
     {
         $collect = collect([]);
