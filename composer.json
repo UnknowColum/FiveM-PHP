@@ -8,6 +8,7 @@
     "api",
     "php"
   ],
+  "minimum-stability": "dev",
   "autoload": {
     "classmap": [
       "src/"
