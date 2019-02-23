@@ -9,6 +9,7 @@
     "php"
   ],
   "minimum-stability": "dev",
+  "prefer-stable": true,
   "autoload": {
     "classmap": [
       "src/"
