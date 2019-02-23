@@ -1,0 +1,25 @@
+{
+  "name": "itexzoz/fivem-php",
+  "description": "A PHP wrapper for FiveM API",
+  "require": {
+    "php": ">=7.0",
+    "guzzlehttp/guzzle": "^6.3@dev",
+    "tightenco/collect": "dev-master"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "iTexZoz",
+      "email": "lucenzo.76@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  },
+  "require-dev": {
+    "ext-json": "*"
+  }
+}
