@@ -1,6 +1,6 @@
 {
   "name": "itexzoz/fivem-php",
-  "description": "A PHP wrapper for FiveM API",
+  "description": "FiveM-PHP and a library for quick use of Server APIs available on FiveM \uD83D\uDC0C",
   "require": {
     "php": ">=7.0",
     "guzzlehttp/guzzle": "^6.3@dev",
