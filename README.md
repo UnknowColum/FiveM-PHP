@@ -22,7 +22,6 @@ DirectServerFilter [PLAYERS, SERVER_INFO]
 echo (new Serverslist)->Get()->Server(['149.202.65.148', 30120], ServerFilter::EMPTY);
 ```
 ```php
-
 try {
     echo (new Serverslist)->Get()->Global(ServerlistFilter::EMPTY);
 } catch (Exception $e) {
