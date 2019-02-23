@@ -17,6 +17,6 @@
   "require": {
     "php": ">=7.0",
     "guzzlehttp/guzzle": "^6.3@dev",
-    "tightenco/collect": "dev-master"
+    "tightenco/collect": "^5.7@dev"
   }
 }
